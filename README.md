@@ -8,3 +8,4 @@ Den saknar bl-touch inställningar men det löste chatgpt till min stora förvå
 Jag tillbringade alldes för lång tid med detta. Klipper klagade på att pinne PD3 användes flera gånger i printer.cfg.
 Därför trodde jag att det var fel pinne. Till slut insåg jag att den pinnen så klart användes till microbrytaren som man
 tar bort när man installerar bl-toush-sensorn.
+Jag kommenterade bort endstop=PD3 och sedan fungerade allt.
